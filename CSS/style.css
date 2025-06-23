@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header {
+    background: #131921;
+
+}
+
+header img {
+    width: 150px;
+    padding: 0.5rem;
+}
+
+header h6 {
+    color: #FFFF;
+}
+
+.Search-bar {
+    width: 500px;
+
+}
+
+.btn-search {
+ background: orange;
+ border-radius: 4px;
+ width: 60px;
+}
