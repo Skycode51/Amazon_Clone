@@ -9,8 +9,9 @@ header {
 }
 
 header img {
-    width: 150px;
-    padding: 0.5rem;
+    width: 120px;
+    padding: 1 rem;
+    
 }
 
 header h6 {
@@ -27,3 +28,42 @@ header h6 {
  border-radius: 4px;
  width: 60px;
 }
+
+.Flag-img {
+    width: 50px;
+    height: 50px;
+}
+
+.account-p {
+    color: #ffff;
+}
+
+.Return-p {
+    color: #ffff;
+}
+
+.cart-icon {
+    color: #FFFF;
+  
+}
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    background-color: #232f3e;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu a {
+    color: #FFFF;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
